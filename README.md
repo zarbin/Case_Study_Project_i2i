@@ -40,11 +40,8 @@
 
 	Project i2i targets customers that live outside of main islands and cities in the Philippines and don't have typical banking financial access.  110 million people live in the Philippines and  70% of Filipinos remain unbanked and have no access to traditional bank accounts and 56% of Filipinos residing in rural communities have limited access to financial services ## This ties into the FinTech notion of banking the unbanked and getting financial services to those lacking in this resource.  It is noted that, "operating outside of the banking system hampers upward mobility, long-term opportunities, and perpetuates poverty."
 	
-    And what we've been building over there together with Union Bank, one of the main banks in the Philippines, is really extending the network of services and the infrastructure extending from the core cities to the rural banks using blockchain technologies. Why we choose blockchain technologies in this case is because it was the easiest way to connect all these different rural banks. There're hundreds of them spread all over the Philippines and connect them back to the existing system.
-	
-	
-From <https://consensys.net/blockchain-use-cases/finance/project-i2i/> 
-
+    And what we've been building over there together with Union Bank, one of the main banks in the Philippines, is really extending the network of services and the infrastructure extending from the core cities to the rural banks using blockchain technologies. Why we choose blockchain technologies in this case is because it was the easiest way to connect all these different rural banks. There're hundreds of them spread all over the Philippines and connect them back to the existing system. From <https://consensys.net/blockchain-use-cases/finance/project-i2i/> 
+    
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 	I think ConsenSys is innovative in this space because of its novel idea to rely on blockchain to standardize, streamline, and reduce cost of transacting with big banks in Philippines realizing the inefficiencies and logistical obstacles given the many of thousands of islands that exist in the Philippines Archipelago.  The partnership with Union Bank, a large bank I the Philippines will allow rural citizens to avail themselves of banking services. 
