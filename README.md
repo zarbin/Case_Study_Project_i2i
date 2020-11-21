@@ -1,4 +1,7 @@
-![Project i2i](./images/i2ipic.jpg)
+<p align="center">
+<img src="./images/i2ipic.jpg" />
+</p>
+
 # Case Study: Project i2i - Connecting the Philippines
     Justin Bernier
     11/21/2020
@@ -16,18 +19,10 @@
 
 ### [Recommendations](#recommendations)
 
-### [Code](./code)
-
-### [Data](./data)
-
-### [References](./references)
-
-### [Images](./images)
-
-
 
 ## Overview and Origin <a name="overview"></a>
-
+* Name and founding of the company
+    
     ConsenSys was founded in October 2014 by Joseph Lubin who previously co-founded Ethereum.   ConsenSys seeks to build next-generation decentralized software services and applications that operate on Ethereum.  A particular project of interest is Project i2i - Blockchain Payments in the Philippines. SK Group initially funded ConsenSys with the first round raising $10 million  (source here??)
 
 * How did the idea for the company (or project) come about?
