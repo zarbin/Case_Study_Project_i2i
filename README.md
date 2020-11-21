@@ -6,10 +6,14 @@
 
 
 ## Table of Contents 
-### [Overview and Origin](#)
+### [Overview and Origin](#overview)
+
 ### [Business Activities](#activities)
+
 ### [Landscape](#landscape)
+
 ### [Results](#results)
+
 ### [Recommendations](#recommendations)
 
 ### [Code](./code)
@@ -22,7 +26,7 @@
 
 
 
-## Overview and Origin  <a name="overview"></a>
+## Overview and Origin <a name="overview"></a>
 
     ConsenSys was founded in October 2014 by Joseph Lubin who previously co-founded Ethereum.   ConsenSys seeks to build next-generation decentralized software services and applications that operate on Ethereum.  A particular project of interest is Project i2i - Blockchain Payments in the Philippines. SK Group initially funded ConsenSys with the first round raising $10 million  (source here??)
 
