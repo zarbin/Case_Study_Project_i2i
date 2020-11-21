@@ -79,16 +79,16 @@
 
 	Some immediate impact of the pilot project for Project i2i include the below:
 
-        * Creation of a verified chronological digital ledger of remittances  
-        * immediate visibility of cash inflows and outflows across each partner bank
-		* Streamline of banking operations - eliminating at least 20 intermediation steps
-		* Faster transaction times and lower costs
-		* Easy operability even in low tech settings
-		* Intuitive user interface
-		* Automated real-time reporting
-		* Automated notification of relevant stakeholders for cash settlement operations
-		* Real-time liquidity management
-		* Automated compliance
+        - Creation of a verified chronological digital ledger of remittances  
+        - immediate visibility of cash inflows and outflows across each partner bank
+		- Streamline of banking operations - eliminating at least 20 intermediation steps
+		- Faster transaction times and lower costs
+		- Easy operability even in low tech settings
+		- Intuitive user interface
+		- Automated real-time reporting
+		- Automated notification of relevant stakeholders for cash settlement operations
+		- Real-time liquidity management
+		- Automated compliance
 	
 	https://cdn2.hubspot.net/hubfs/4795067/Project%20i2i%20Case%20Study%20%5BClient%20Ready%5D%20-%20JUNE%202019%20(1).pdf page 6
 	
