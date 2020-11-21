@@ -6,7 +6,11 @@
 
 
 ## Table of Contents 
+### [Overview and Origin](#)
 ### [Business Activities](#activities)
+### [Landscape](#landscape)
+### [Results](#results)
+### [Recommendations](#recommendations)
 
 ### [Code](./code)
 
@@ -18,7 +22,7 @@
 
 
 
-## Overview and Origin
+## Overview and Origin  <a name="overview"></a>
 
     ConsenSys was founded in October 2014 by Joseph Lubin who previously co-founded Ethereum.   ConsenSys seeks to build next-generation decentralized software services and applications that operate on Ethereum.  A particular project of interest is Project i2i - Blockchain Payments in the Philippines. SK Group initially funded ConsenSys with the first round raising $10 million  (source here??)
 
@@ -28,7 +32,7 @@
 
 
 
-## Business Activities: <a name="activities"></a>
+## Business Activities <a name="activities"></a>
 * What specific financial problem is the company or project trying to solve
 
     Project i2i seeks to solve the archipelago obstacle in the Philippines and find efficient ways to connect those on islands with less banking infrastructure with a way to easily interact and transact with major banks on the main islands of the Philippines  "it's about connecting the rural banks in the Philippines, to the core banking system of the Philippines in the cities"
@@ -57,7 +61,8 @@ From <https://consensys.net/blockchain-use-cases/finance/project-i2i/>
 	Project i2i implemented Enterprise Ethereum to create a decentralized, cost-efficient, real-time inter-rural bank payment platform that operates autonomously outside of existing payment infrastructures and intermediaries such as the Philippines’ PhilPass and SWIFT. The Project i2i platform works to connect rural banks as well as national commercial banks to the central bank, helping remote banks integrate with the domestic financial system while also improving banking access for local citizens.
 
     Project i2i extended an open Ethereum network that's module that all of these rural banks can connect to.  They can use Ethereum to ensure that transactions have  high degree of integrity and whole process is more efficient and less prone to errors.  Now easy for rural banks to plug in and get connected and they have an automated settlement and clearing system that actually works.  - Blockchain Payments: ConsenSys & Unionbank present Project i2i
-## Landscape:
+
+## Landscape <a name="landscape"></a>
 
 * What domain of the financial industry is the company in?
 
@@ -73,7 +78,7 @@ From <https://consensys.net/blockchain-use-cases/finance/project-i2i/>
 
 
 
-## Results
+## Results <a name="results"></a>
 
 * What has been the business impact of this company so far?
 
@@ -107,7 +112,7 @@ From <https://consensys.net/blockchain-use-cases/finance/project-i2i/>
     
     Performance of the i2i project has been strong as the 6 month pilot period was successful and the project has support from the Central Bank of the Philippines.
 
-## Recommendations
+## Recommendations <a name="recommendations"></a>
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
