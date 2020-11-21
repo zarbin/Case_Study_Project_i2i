@@ -1,8 +1,8 @@
+![Project i2i](./images/i2ipic.jpg)
 # Case Study: Project i2i - Connecting the Philippines
     Justin Bernier
     11/21/2020
     Unit 1 Homework : FinTech Case Study
-
 
 
 ## Table of Contents 
@@ -90,7 +90,7 @@ From <https://consensys.net/blockchain-use-cases/finance/project-i2i/>
 
         * Creation of a verified chronological digital ledger of remittances  
         * immediate visibility of cash inflows and outflows across each partner bank
-		* Streamline of banking operations - eliminating at least 20 intermediation steps required to complete a domestic transaction - into one seamless process
+		* Streamline of banking operations - eliminating at least 20 intermediation steps
 		* Faster transaction times and lower costs
 		* Easy operability even in low tech settings
 		* Intuitive user interface
