@@ -20,8 +20,8 @@
 
 ### [Recommendations](#recommendations)
 
-
-## Overview and Origin (#-overview-and-origin---overview-)
+<a name="overview"/>
+## Overview and Origin
 
 * Name and founding of the company
     
@@ -32,8 +32,8 @@
     Joseph Lubin intended ConsenSys to be a software foundry to develop decentralized software services and applications that operate on the Ethereum blockchain.  Project i2i is proof of concept of how Enterprise Ethereum and blockchain can be used to resolve financial service issues that traditional banks are unable to.
 
 
-
-## Business Activities <a name="activities"></a>
+<a name="activities"/>
+## Business Activities
 
 * What specific financial problem is the company or project trying to solve
 
@@ -61,8 +61,8 @@
 
     Project i2i extended an open Ethereum network that's module that all of these rural banks can connect to.  They can use Ethereum to ensure that transactions have  high degree of integrity and whole process is more efficient and less prone to errors.  Now easy for rural banks to plug in and get connected and they have an automated settlement and clearing system that actually works.  - Blockchain Payments: ConsenSys & Unionbank present Project i2i
 
+<a name="landscape"/>
 ## Landscape 
-<a name="landscape"></a>
 
 * What domain of the financial industry is the company in?
 
