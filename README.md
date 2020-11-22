@@ -59,9 +59,9 @@
 		
     Rural banks are given an Ipad and an application they can login to and these disconnected rural banks across the archipelago can transact very seamlessly in near real-time and very low cost. 
 
-	Project i2i implemented Enterprise Ethereum to create a decentralized, cost-efficient, real-time inter-rural bank payment platform that operates autonomously outside of existing payment infrastructures and intermediaries such as the Philippines’ PhilPass and SWIFT. The Project i2i platform works to connect rural banks as well as national commercial banks to the central bank, helping remote banks integrate with the domestic financial system while also improving banking access for local citizens.
+	Project i2i implemented Enterprise Ethereum to create a decentralized, cost-efficient, real-time inter-rural bank payment platform that operates autonomously outside of existing payment infrastructures and intermediaries such as the Philippines’ PhilPass and SWIFT.
 
-    Project i2i extended an open Ethereum network that's module that all of these rural banks can connect to.  They can use Ethereum to ensure that transactions have  high degree of integrity and whole process is more efficient and less prone to errors.  Now easy for rural banks to plug in and get connected and they have an automated settlement and clearing system that actually works.  - Blockchain Payments: ConsenSys & Unionbank present Project i2i
+    Project i2i extended an open Ethereum network that's module that all of these rural banks can connect to.  They can use Ethereum to ensure that transactions have  high degree of integrity and whole process is more efficient and less prone to errors.  Now it is easier for rural banks to plug in and get connected and they have an automated settlement and clearing system that actually works.
 
 <a name="landscape"></a>
 
@@ -98,7 +98,7 @@
 		- Real-time liquidity management
 		- Automated compliance
 	
-	https://cdn2.hubspot.net/hubfs/4795067/Project%20i2i%20Case%20Study%20%5BClient%20Ready%5D%20-%20JUNE%202019%20(1).pdf page 6
+
 	
     The 6 month pilot period for Project i2i was a success that created, "Sustainable results and possibilities for a rapidly emerging economy"
 
@@ -113,7 +113,7 @@
 	I am not aware of any direct competitors working on a similar project.  ConsenSys as a company has positioned itself as a thought leader and major consulting firm of blockchain technology and has grown substantially to over 1000+ Employees and a valuation of $1 billion. 
         https://www.coindesk.com/consensys-is-seeking-200-million-in-new-funding-report
     
-    Performance of the i2i project has been strong as the 6 month pilot period was successful and the project has support from the Central Bank of the Philippines.
+    Performance of the i2i project has been strong as the 6 month pilot period was successful and the project has support now from the Central Bank of the Philippines.
 
 <a name="recommendations"></a>
 
