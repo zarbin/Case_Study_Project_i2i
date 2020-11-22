@@ -21,7 +21,9 @@
 ### [Recommendations](#recommendations)
 
 
-## Overview and Origin <a name="overview"></a>
+## Overview and Origin 
+<a name="overview"></a>
+
 * Name and founding of the company
     
     ConsenSys was founded in October 2014 by Joseph Lubin who previously co-founded Ethereum.   ConsenSys seeks to build next-generation decentralized software services and applications that operate on Ethereum.  A particular project of interest is Project i2i - Blockchain Payments in the Philippines. SK Group initially funded ConsenSys with the first round raising $10 million  (source here??)
@@ -32,7 +34,9 @@
 
 
 
-## Business Activities <a name="activities"></a>
+## Business Activities 
+<a name="activities"></a>
+
 * What specific financial problem is the company or project trying to solve
 
     Project i2i seeks to solve the archipelago obstacle in the Philippines and find efficient ways to connect those on islands with less banking infrastructure with a way to easily interact and transact with major banks on the main islands of the Philippines  "it's about connecting the rural banks in the Philippines, to the core banking system of the Philippines in the cities"
@@ -41,7 +45,7 @@
 
 	Project i2i targets customers that live outside of main islands and cities in the Philippines and don't have typical banking financial access.  110 million people live in the Philippines and  70% of Filipinos remain unbanked and have no access to traditional bank accounts and 56% of Filipinos residing in rural communities have limited access to financial services ## This ties into the FinTech notion of banking the unbanked and getting financial services to those lacking in this resource.  It is noted that, "operating outside of the banking system hampers upward mobility, long-term opportunities, and perpetuates poverty."
 	
-    And what we've been building over there together with Union Bank, one of the main banks in the Philippines, is really extending the network of services and the infrastructure extending from the core cities to the rural banks using blockchain technologies. Why we choose blockchain technologies in this case is because it was the easiest way to connect all these different rural banks. There're hundreds of them spread all over the Philippines and connect them back to the existing system. From <https://consensys.net/blockchain-use-cases/finance/project-i2i/> 
+    What They've been building over there together with Union Bank, one of the main banks in the Philippines, is really extending the network of services and the infrastructure extending from the core cities to the rural banks using blockchain technologies. Why we choose blockchain technologies in this case is because it was the easiest way to connect all these different rural banks. There're hundreds of them spread all over the Philippines and connect them back to the existing system.  
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -51,7 +55,7 @@
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-	Tablet (iPad), Web API, Quorum open source blockchain for business.  Ethereum blockchain back-end, programmable money,  smart contracts, digital signatures, Transaction signatures utilizing the Microsoft Azure Key Vault
+	Tablet (iPad), Web API, Quorum open source blockchain for business.  Ethereum blockchain back-end (Kaleido),  smart contracts, digital signatures, Transaction signatures utilizing the Microsoft Azure Key Vault, 
 		
     Rural banks are given an Ipad and an application they can login to and these disconnected rural banks across the archipelago can transact very seamlessly in near real-time and very low cost. 
 
@@ -59,7 +63,9 @@
 
     Project i2i extended an open Ethereum network that's module that all of these rural banks can connect to.  They can use Ethereum to ensure that transactions have  high degree of integrity and whole process is more efficient and less prone to errors.  Now easy for rural banks to plug in and get connected and they have an automated settlement and clearing system that actually works.  - Blockchain Payments: ConsenSys & Unionbank present Project i2i
 
-## Landscape <a name="landscape"></a>
+## Landscape 
+<a name="landscape"></a>
+
 * What domain of the financial industry is the company in?
 
     Broadly Consensys has services and products across many financial industry domains, but The i2i project focuses on digital banking with plans to expand into payments and remittance.  
@@ -75,6 +81,7 @@
 
 
 ## Results <a name="results"></a>
+
 * What has been the business impact of this company so far?
 
 	Some immediate impact of the pilot project for Project i2i include the below:
@@ -127,6 +134,24 @@
 
     Additional financial services could be rolled out to end users and they interface with the same blockchain tech stack that the rural banks are using to standardized and streamline settlement and clearing activities.  
 
+## Addendum - Cited Sources
 
+1) Driving Financial Inclusion in the Philippines - https://cdn2.hubspot.net/hubfs/4795067/Project%20i2i%20Case%20Study%20%5BClient%20Ready%5D%20-%20JUNE%202019%20(1).pdf
 
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
+2) 4.4.4 ConsenSys Use Case: Project i2i(Charles D'Haussy from ConSenSys) -  https://learning.edx.org/course/course-v1:HKUx+HKU_10x+2T2019/block-v1:HKUx+HKU_10x+2T2019+type@sequential+block@566fbe63abd1443e9c0d7ca93b731c3f/block-v1:HKUx+HKU_10x+2T2019+type@vertical+block@4cb98e90777448d88f6e8253f58c3f88
+
+3) Blockchain Payments: ConsenSys & Unionbank present Project i2i - https://www.youtube.com/watch?v=E6US_fFxSMY&feature=emb_logo
+
+4) Kaleido & UnionBank, Project i2i - #Blockchain Testimonial - https://www.youtube.com/watch?v=viwQWwk0m5Y
+
+5) ConsenSys is a market-leading blockchain technology company - https://consensys.net/about/
+
+6) Wikipedia ConsenSys -  https://en.wikipedia.org/wiki/ConsenSys
+
+7) Crunchbase ConsenSys - https://www.crunchbase.com/organization/consensus-systems/company_financials
+
+8) How Kaleido Created a Blockchain Marketplace for Devs and Enterprise - https://consensys.net/blog/enterprise-blockchain/how-kaleido-created-the-first-blockchain-marketplace-for-developers-and-businesses/
+
+9) Build on Quorum - https://consensys.net/quorum/
+
+10) ConsenSys Is Seeking $200 Million in New Funding: Report - https://www.coindesk.com/consensys-is-seeking-200-million-in-new-funding-report
