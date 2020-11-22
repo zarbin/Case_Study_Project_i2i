@@ -21,7 +21,7 @@
 ### [Recommendations](#recommendations)
 
 
-## Overview and Origin #-overview-and-origin---overview-)
+## Overview and Origin (#-overview-and-origin---overview-)
 
 * Name and founding of the company
     
