@@ -111,7 +111,6 @@
 * How is your company performing relative to competitors in the same domain?
 
 	I am not aware of any direct competitors working on a similar project.  ConsenSys as a company has positioned itself as a thought leader and major consulting firm of blockchain technology and has grown substantially to over 1000+ Employees and a valuation of $1 billion. 
-        https://www.coindesk.com/consensys-is-seeking-200-million-in-new-funding-report
     
     Performance of the i2i project has been strong as the 6 month pilot period was successful and the project has support now from the Central Bank of the Philippines.
 
