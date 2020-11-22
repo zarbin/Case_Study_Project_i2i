@@ -20,7 +20,7 @@
 
 ### [Recommendations](#recommendations)
 
-<a name="overview"/>
+<a name="overview"></a>
 
 ## Overview and Origin
 
@@ -63,9 +63,9 @@
 
     Project i2i extended an open Ethereum network that's module that all of these rural banks can connect to.  They can use Ethereum to ensure that transactions have  high degree of integrity and whole process is more efficient and less prone to errors.  Now easy for rural banks to plug in and get connected and they have an automated settlement and clearing system that actually works.  - Blockchain Payments: ConsenSys & Unionbank present Project i2i
 
-<a name="landscape"/>
+<a name="landscape"></a>
 
-## Landscape 
+## Landscape
 
 * What domain of the financial industry is the company in?
 
@@ -79,9 +79,9 @@
 
     Traditional banks, but also FinTech companies out of Silicon Valley that are pressuring traditionally banks to adopt and mature their digital banking platforms and services that are available to consumers.   Square is a great example of a company that is helping people digitally bank, transact, and even buy cryptocurrencies all through an app on their cellphone.  
 
+<a name="results"></a>
 
-
-## Results <a name="results"></a>
+## Results 
 
 * What has been the business impact of this company so far?
 
@@ -115,7 +115,9 @@
     
     Performance of the i2i project has been strong as the 6 month pilot period was successful and the project has support from the Central Bank of the Philippines.
 
-## Recommendations <a name="recommendations"></a>
+<a name="recommendations"></a>
+
+## Recommendations 
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
