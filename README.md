@@ -21,8 +21,7 @@
 ### [Recommendations](#recommendations)
 
 
-## Overview and Origin 
-<a name="overview"></a>
+## Overview and Origin #-overview-and-origin---overview-)
 
 * Name and founding of the company
     
@@ -34,8 +33,7 @@
 
 
 
-## Business Activities 
-<a name="activities"></a>
+## Business Activities <a name="activities"></a>
 
 * What specific financial problem is the company or project trying to solve
 
